@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="00000 height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anish Kumar Jain</h1>
@@ -15,7 +15,8 @@
 
 <p align="center">
   <em>
-    I'm Anish, a <b>Third year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
+    I'm Anish, a <b>Third year</b> 
+    undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
     A budding <b> Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
